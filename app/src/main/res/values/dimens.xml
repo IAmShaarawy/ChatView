@@ -1,0 +1,6 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="chat_bubble_big_reduce">16dp</dimen>
+    <dimen name="chat_bubble_small_reduce">2dp</dimen>
+    <dimen name="chat_bubble_padding">12dp</dimen>
+</resources>

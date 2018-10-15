@@ -54,7 +54,8 @@ class MainActivityFragment : Fragment() {
                 Message("23", "but still losing 😥", "09:17PM", peerAvatar, false),
                 Message("24", "ربنا معاك يا حبيبي و يخدك علشان امسك مكانك", "09:18PM", userAvatar),
                 Message("25", "😂 🤣", "09:18PM", userAvatar),
-                Message("26", "هوصي الولد خالد الإسلامبولي يعمل معاك الواجب 😉", "09:19PM", peerAvatar, false)
+                Message("26", "هوصي الولد خالد الإسلامبولي يعمل معاك الواجب 😉", "09:19PM", peerAvatar, false),
+                Message("27", "هحبيبي يا مريسه My sweet heart 🇮🇱", "09:19PM", peerAvatar, false)
         )
     }
 }

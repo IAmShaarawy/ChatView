@@ -3,4 +3,7 @@
     <dimen name="chat_bubble_big_reduce">16dp</dimen>
     <dimen name="chat_bubble_small_reduce">2dp</dimen>
     <dimen name="chat_bubble_padding">12dp</dimen>
+    <dimen name="chat_edit_text_border_reduce">24dp</dimen>
+    <dimen name="chat_edit_text_vertical_padding">12dp</dimen>
+    <dimen name="chat_edit_text_horizontal_padding">16dp</dimen>
 </resources>

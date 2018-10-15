@@ -13,8 +13,6 @@ class UserViewHolder(view: View) : RecyclerView.ViewHolder(view) {
             tvUserTextMessage.setOnClickListener {
                 tvUserMessageDate.swapVisibility()
             }
-        }.let { it as ViewGroup }.apply {
-            layoutTransition.enableTransitionType(LayoutTransition.CHANGING)
         }
     }
 

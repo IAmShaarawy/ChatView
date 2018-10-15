@@ -15,8 +15,6 @@ class PeerViewHolder(view: View) : RecyclerView.ViewHolder(view) {
             tvPeerTextMessage.setOnClickListener {
                 tvPeerMessageDate.swapVisibility()
             }
-        }.let { it as ViewGroup }.apply {
-            layoutTransition.enableTransitionType(LayoutTransition.CHANGING)
         }
     }
 

@@ -9,7 +9,7 @@ class DialogAdapter(private val messages: MutableList<Message>) :
         RecyclerView.Adapter<RecyclerView.ViewHolder>() {
 
     init {
-        messages.sortByDescending { it.id }
+        messages.sortByDescending { it.id.toLong() }
     }
 
     override fun onCreateViewHolder(parent: ViewGroup, viewType: Int): RecyclerView.ViewHolder {

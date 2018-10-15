@@ -36,7 +36,25 @@ class MainActivityFragment : Fragment() {
                 Message("5", "but still losing 😥", "09:17PM", peerAvatar, false),
                 Message("6", "ربنا معاك يا حبيبي و يخدك علشان امسك مكانك", "09:18PM", userAvatar),
                 Message("7", "😂 🤣", "09:18PM", userAvatar),
-                Message("8", "هوصي الولد خالد الإسلامبولي يعمل معاك الواجب 😉", "09:19PM", peerAvatar, false)
+                Message("8", "هوصي الولد خالد الإسلامبولي يعمل معاك الواجب 😉", "09:19PM", peerAvatar, false),
+                Message("9", "Hello !", "09:13PM", userAvatar),
+                Message("10", "How Are You?", "09:14PM", userAvatar),
+                Message("11", "Hi There", "09:15PM", peerAvatar, false),
+                Message("12", "How is the business?", "09:16PM", userAvatar),
+                Message("13", "I'm Fine,", "09:17PM", peerAvatar, false),
+                Message("14", "but still losing 😥", "09:17PM", peerAvatar, false),
+                Message("15", "ربنا معاك يا حبيبي و يخدك علشان امسك مكانك", "09:18PM", userAvatar),
+                Message("16", "😂 🤣", "09:18PM", userAvatar),
+                Message("17", "هوصي الولد خالد الإسلامبولي يعمل معاك الواجب 😉", "09:19PM", peerAvatar, false),
+                Message("18", "Hello !", "09:13PM", userAvatar),
+                Message("19", "How Are You?", "09:14PM", userAvatar),
+                Message("20", "Hi There", "09:15PM", peerAvatar, false),
+                Message("21", "How is the business?", "09:16PM", userAvatar),
+                Message("22", "I'm Fine,", "09:17PM", peerAvatar, false),
+                Message("23", "but still losing 😥", "09:17PM", peerAvatar, false),
+                Message("24", "ربنا معاك يا حبيبي و يخدك علشان امسك مكانك", "09:18PM", userAvatar),
+                Message("25", "😂 🤣", "09:18PM", userAvatar),
+                Message("26", "هوصي الولد خالد الإسلامبولي يعمل معاك الواجب 😉", "09:19PM", peerAvatar, false)
         )
     }
 }
